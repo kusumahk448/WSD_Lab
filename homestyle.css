@@ -112,6 +112,14 @@ a:link {
   a:active {
     color: yellow;
   }
+.parallax{
+    background-image: url('https://wallpapercave.com/wp/wp6947272.jpg');
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
 
 /* Media Queries */
 @media (max-width: 768px) {
